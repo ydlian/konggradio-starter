@@ -47,7 +47,7 @@ public interface TokenConstant {
 	String CLIENT_ID = "client_id";
 	String LICENSE = "license";
 	String LICENSE_NAME = "powered by KongGradio";
-	String DEFAULT_AVATAR = "https://gw.alipayobjects.com/zos/rmsportal/BiazfanxmamNRoxxVxka.png";
+	String DEFAULT_AVATAR = "";
 	Integer AUTH_LENGTH = 7;
 
 }
