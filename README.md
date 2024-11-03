@@ -1,8 +1,4 @@
- <p align="center">
-  <img src="https://img.shields.io/badge/license-LGPL%20v3-blue.svg" alt="Build Status">
-   <img src="https://img.shields.io/badge/Spring%20Cloud-2020-blue.svg" alt="Coverage Status">
-   <img src="https://img.shields.io/badge/Spring%20Boot-2.5.14-blue.svg" alt="Downloads">
- </p>  
+
 
 ## konggradio Enterprise level distributed service framework
 * A more secure enterprise level distributed microservice application framework
