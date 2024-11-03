@@ -6,6 +6,7 @@
 
 ## konggradio Enterprise level distributed service framework
 * 更安全的企业级分布式微服务应用框架
+* 千万级DAU严苛生产环境实战检验
 * 后端采用SpringCloud 2020，SpringBoot 2，对基础应用组件做了高度的封装
 * 集成Sentinel流量控制，熔断降级、系统负载等多个维度保护服务的稳定性。
 * 注册中心支持consul、配置中心支持Apollo，简化代码开发，
