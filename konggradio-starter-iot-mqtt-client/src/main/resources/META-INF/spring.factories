@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+auto.org.konggradio.unicron.iot.MqttProducerConfigure

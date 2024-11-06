@@ -127,6 +127,7 @@
         <module>konggradio-starter-ssh2</module>
         <module>konggradio-starter-iot</module>
         <module>konggradio-starter-iot-mqtt</module>
+        <module>konggradio-starter-iot-mqtt-client</module>
 
     </modules>
 
